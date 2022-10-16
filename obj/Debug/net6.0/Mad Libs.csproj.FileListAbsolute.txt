@@ -1,0 +1,15 @@
+/Users/luca/Desktop/codecademy/Mad Libs/bin/Debug/net6.0/Mad Libs
+/Users/luca/Desktop/codecademy/Mad Libs/bin/Debug/net6.0/Mad Libs.deps.json
+/Users/luca/Desktop/codecademy/Mad Libs/bin/Debug/net6.0/Mad Libs.runtimeconfig.json
+/Users/luca/Desktop/codecademy/Mad Libs/bin/Debug/net6.0/Mad Libs.dll
+/Users/luca/Desktop/codecademy/Mad Libs/bin/Debug/net6.0/Mad Libs.pdb
+/Users/luca/Desktop/codecademy/Mad Libs/obj/Debug/net6.0/Mad Libs.csproj.AssemblyReference.cache
+/Users/luca/Desktop/codecademy/Mad Libs/obj/Debug/net6.0/Mad Libs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luca/Desktop/codecademy/Mad Libs/obj/Debug/net6.0/Mad Libs.AssemblyInfoInputs.cache
+/Users/luca/Desktop/codecademy/Mad Libs/obj/Debug/net6.0/Mad Libs.AssemblyInfo.cs
+/Users/luca/Desktop/codecademy/Mad Libs/obj/Debug/net6.0/Mad Libs.csproj.CoreCompileInputs.cache
+/Users/luca/Desktop/codecademy/Mad Libs/obj/Debug/net6.0/Mad Libs.dll
+/Users/luca/Desktop/codecademy/Mad Libs/obj/Debug/net6.0/refint/Mad Libs.dll
+/Users/luca/Desktop/codecademy/Mad Libs/obj/Debug/net6.0/Mad Libs.pdb
+/Users/luca/Desktop/codecademy/Mad Libs/obj/Debug/net6.0/Mad Libs.genruntimeconfig.cache
+/Users/luca/Desktop/codecademy/Mad Libs/obj/Debug/net6.0/ref/Mad Libs.dll
